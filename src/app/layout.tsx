@@ -11,8 +11,8 @@ export const metadata: Metadata = {
     images: [
       {
         url: `/script-logo-light.svg`,
-        width: 600,
-        height: 600,
+        width: 200,
+        height: 200,
         alt: `tx logo`,
       },
     ],
