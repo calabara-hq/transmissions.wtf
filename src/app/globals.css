@@ -31,3 +31,29 @@ body {
     text-wrap: balance;
   }
 }
+
+/* .text-photo
+{
+    visibility: visible;
+
+    opacity: 0;
+}
+
+.big-photo_fade
+{
+    transition: opacity 2s ease;
+
+    opacity: 0;
+}
+
+.big-photo_load
+{
+    visibility: hidden;
+}
+
+.text-photo_fade
+{
+    transition: opacity 2s ease;
+
+    opacity: 1;
+} */
