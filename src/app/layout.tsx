@@ -6,13 +6,15 @@ const ubuntu = Ubuntu({ weight: "400", subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Transmissions",
+  description: "Transmissions",
   openGraph: {
-    title: `Transmissions`,
+    title: "Transmissions",
+    description: "Transmissions",
     images: [
       {
-        url: `/script-logo-light.svg`,
-        width: 200,
-        height: 200,
+        url: "/api/metadata",
+        width: 600,
+        height: 600,
         alt: `tx logo`,
       },
     ],
